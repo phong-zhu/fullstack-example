@@ -1,0 +1,34 @@
+{
+  "name": "hooks-react-starter",
+  "private": true,
+  "version": "3.0.1",
+  "scripts": {
+    "start": "hooks start --port=8088",
+    "dev": "hooks dev",
+    "build": "hooks build"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/pro-components": "^2.6.18",
+    "@ant-design/pro-layout": "^7.16.13",
+    "@midwayjs/hooks": "^3.1.0",
+    "@midwayjs/hooks-kit": "^3.1.0",
+    "@midwayjs/koa": "^3.10.6",
+    "@midwayjs/rpc": "^3.1.0",
+    "@midwayjs/serve": "^3.1.0",
+    "ahooks": "^3.1.2",
+    "buffer": "^6.0.3",
+    "csv": "^6.3.3",
+    "isomorphic-unfetch": "^3.1.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-json-view": "^1.21.3",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.20",
+    "@vitejs/plugin-react": "^3.0.0",
+    "typescript": "^4.9.4"
+  }
+}

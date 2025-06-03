@@ -1,0 +1,4 @@
+﻿old,new,meaning,type,group
+com.oldSchool.cpu,com.cpu,cpu example,container,cpu
+com.oldSchool.resource,com.resource,socket example,container,resource
+com.oldSchool.gpu,com.gpu,GPU example,container,gpu
