@@ -17,6 +17,7 @@
     "@midwayjs/rpc": "^3.1.0",
     "@midwayjs/serve": "^3.1.0",
     "ahooks": "^3.1.2",
+    "axios": "^1.9.0",
     "buffer": "^6.0.3",
     "csv": "^6.3.3",
     "isomorphic-unfetch": "^3.1.0",

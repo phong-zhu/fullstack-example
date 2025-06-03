@@ -2,6 +2,17 @@
 
 This is a example project for fullstack developing based on midway and react.
 
+## run
+
+### fullstack
+
+- `npm run dev`
+
+### with go backend
+
+- `cd backend/go-backend`, `go run .`
+- `FC_HAS_BACKEND=true npm run dev`
+
 ## hooks-react-starter
 
 Use this template:
